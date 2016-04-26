@@ -1,8 +1,20 @@
+/* GENERAL */
+* {
+	text-align: center;
+}
+
 /*  HEADER */
 .bgImgH {
 	background-image: url(../image/large.jpg);
 	background-repeat: none;
+	background-size: 100%;
+	padding-top: 2%;
 }
-.logo {
-	max-width: 100%;
+.tw {
+	color: #fff;
+}
+
+/* SERVICES */
+.circleS {
+
 }
