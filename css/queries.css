@@ -20,6 +20,35 @@ body{
 span{
 	color: red;
 }
-#elemento{
-	margin-left:20%;
+
+#elemento1{
+	margin-left:30%;
+}
+#elemento2{
+	margin-left:33%;
+}
+#elemento3{
+	margin-left:22%;
+	height: 100px;
+}
+h4{
+	margin-left:10%;
+}
+h3{
+	margin-left: 10%;
+}
+.boton{
+	background-color: #4F81D7;
+	margin-left: 47%;
+	border: #4F81D7;
+}
+.text-c{
+	margin-left: 50%;
+	margin-top:10px;
+}
+.enlace{
+	margin-left: 60%;
+}
+a{
+	color:black;
 }
