@@ -1,0 +1,97 @@
+
+.u-t{
+	width: 50%;
+
+}
+span{
+	color:blue;
+}
+h1{
+	color:#09A1FF;
+}
+.movie{
+	margin-top: 30px;
+}
+.fle{
+	width: 14%;
+	margin-left: 43%;
+}
+.logo{
+	
+	height: 400px;
+	width: 100%;
+	background-color: grey;
+	opacity: 0.5;
+	position: relative;
+
+}
+h5{
+	color:#09A1FF;
+}
+.p{
+	position: absolute;
+	margin-top: -50px;
+	margin-left: 90%;
+}
+#font{
+	position: absolute;
+	margin-top: -320px;
+	margin-left: 90%;
+	background-color:#09A1FF;
+	width: 8%;
+	height: 50px;
+	border-radius: 100%;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	padding-top: 7px;
+
+}
+#font{
+	position: absolute;
+	margin-top: -340px;
+	margin-left: 93%;
+	background-color:#09A1FF;
+	width: 8%;
+	height: 50px;
+	border-radius: 100%;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	padding-top: 7px;
+
+}
+#font1{
+	position: absolute;
+	margin-top: -230px;
+	margin-left: 93%;
+	background-color:#09A1FF;
+	width: 8%;
+	height: 50px;
+	border-radius: 100%;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	padding-top: 7px;
+
+}
+#font2{
+	position: absolute;
+	margin-top: -130px;
+	margin-left: 93%;
+	background-color:#09A1FF;
+	width: 8%;
+	height: 50px;
+	border-radius: 100%;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	padding-top: 7px;
+
+}
+#leter{
+	margin-left: -7%;
+}
+#mr{
+	margin-bottom: 100px;
+}
