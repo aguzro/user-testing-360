@@ -1,0 +1,8 @@
+/*  HEADER */
+.bgImgH {
+	background-image: url(../image/large.jpg);
+	background-repeat: none;
+}
+.logo {
+	max-width: 100%;
+}
