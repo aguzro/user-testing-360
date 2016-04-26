@@ -1,0 +1,19 @@
+
+.container img {
+	width: 100%;
+	font-size: 300px;
+	margin-top: 30px;
+}
+.container h3  {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.boton{
+	margin-left: 20px;
+	margin-top: 8%;
+}
+.fondo{
+	background-color: #1B93EA;
+	text-align: center;
+}
