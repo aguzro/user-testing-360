@@ -3,7 +3,7 @@
 	width: 50%;
 
 }
-span{
+.letra{
 	color:blue;
 }
 h1{
@@ -37,7 +37,7 @@ h5{
 	position: absolute;
 	margin-top: -320px;
 	margin-left: 90%;
-	background-color:#09A1FF;
+	background-color:rgb(116,163,219);
 	width: 8%;
 	height: 50px;
 	border-radius: 100%;
@@ -51,7 +51,7 @@ h5{
 	position: absolute;
 	margin-top: -340px;
 	margin-left: 93%;
-	background-color:#09A1FF;
+	background-color:rgb(116,163,250);
 	width: 8%;
 	height: 50px;
 	border-radius: 100%;
@@ -65,7 +65,7 @@ h5{
 	position: absolute;
 	margin-top: -230px;
 	margin-left: 93%;
-	background-color:#09A1FF;
+	background-color:rgb(116,163,250);
 	width: 8%;
 	height: 50px;
 	border-radius: 100%;
@@ -79,7 +79,7 @@ h5{
 	position: absolute;
 	margin-top: -130px;
 	margin-left: 93%;
-	background-color:#09A1FF;
+	background-color:rgb(116,163,250);
 	width: 8%;
 	height: 50px;
 	border-radius: 100%;
