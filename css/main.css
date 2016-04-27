@@ -2,19 +2,32 @@
 * {
 	text-align: center;
 }
+.tw {
+	color: #fff;
+}
 
+
+
+
+
+.pbt-5 {
+	padding: 2% 0;
+}
 /*  HEADER */
 .bgImgH {
 	background-image: url(../image/large.jpg);
 	background-repeat: none;
 	background-size: 100%;
-	padding-top: 2%;
 }
-.tw {
-	color: #fff;
-}
+
 
 /* SERVICES */
-.circleS {
+.circle {
+	border-radius: 50%
+	padding: 30%;
+	box-shadow: ;
 
+}
+.fS {
+	font-size: 3em;
 }
