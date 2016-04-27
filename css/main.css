@@ -10,14 +10,16 @@
 .pbt-5 {
 	padding: 2% 0;
 }
+
 /*  HEADER */
+.opacity {
+	background: rgba(59, 61, 91, 0.6);
+}
 .bgImgH {
 	background-image: url(../image/large.jpg);
 	background-size: 100%;
 }
-dl {
-	display: inline-block;
-}
+
 
 /* SERVICES */
 .circle {
