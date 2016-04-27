@@ -48,6 +48,9 @@ header{
 	max-height: 50%;
 	display: inline;
 }
+h1{
+	color:#09A1FF;
+}
 .letra{
 	color:blue;
 }
@@ -192,4 +195,7 @@ h5{
 	background-color: #1e85d0;
 	
 }
-
+.img-responsive{
+	width: 10% !important;
+	margin:0 auto;
+}
