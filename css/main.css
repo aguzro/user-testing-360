@@ -37,8 +37,8 @@ header{
 /* SERVICES */
 .circle {
 	font-size: 3em;
-	border-radius: 70%;
+	border-radius: 40%;
 	margin: 1%;
-	padding: 5%;
-	box-shadow: -2px 2px 2px #f2f2f2;
+	padding: 1%;
+	box-shadow: -3px 3px 3px #f2f2f2;
 }
