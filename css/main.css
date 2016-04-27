@@ -7,19 +7,17 @@
 }
 
 
-
-
-
 .pbt-5 {
 	padding: 2% 0;
 }
 /*  HEADER */
 .bgImgH {
 	background-image: url(../image/large.jpg);
-	background-repeat: none;
 	background-size: 100%;
 }
-
+dl {
+	display: inline-block;
+}
 
 /* SERVICES */
 .circle {
