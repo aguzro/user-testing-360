@@ -1,22 +1,60 @@
+/* GENERAL */
+* {
+	font-family: 'Open Sans', sans-serif, serif;
+}
+.tw {   /* texto blanco */
+	color: #fff;
+}
+.tBL {  /* texto azul claro */
+	color: #97afff;
+}
+.tBD {  /* texto azul oscuro */
+	color: #6987a4;
+}
+.pd-3 {
+	padding: 3% 0;
+}
+.m-7 {
+	margin: 7% 0;
+}
 
-/*css de main section y footer*/
+/*  HEADER */
+.opacity {
+	background: rgba(59, 61, 91, 0.6);
+}
+header{
+	background-image: url(../image/large.jpg);
+	background-size: 100%;
+}
+.fH {
+	font-size: 2.6em;
+}
+.opB {
+	background: rgba(82, 141, 211, 0.9);
+}
+
+/* SERVICES */
+.circle {
+	font-size: 3em;
+	border-radius: 40%;
+	margin: 1%;
+	padding: 1%;
+	box-shadow: -3px 3px 3px #f2f2f2;
+}
+
+/* EXAMPLE */
 .u-t{
-	width: 50%;
-
+	max-width: 50%;
+	max-height: 50%;
+	display: inline;
 }
 .letra{
 	color:blue;
 }
-h1{
-	color:#09A1FF;
-}
 .movie{
 	margin-top: 30px;
 }
-.fle{
-	width: 14%;
-	margin-left: 43%;
-}
+
 .logo{
 	
 	height: 400px;
@@ -154,4 +192,4 @@ h5{
 	background-color: #1e85d0;
 	
 }
-/*css de main section y footer*/
+
